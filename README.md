@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafaozvardar" alt="mustafaozvardar" /></a> </p>
 
-- 🌱 I’m currently learning **OpenCV, YOLO, Computer Vision**
+- 🌱 I’m currently learning **OpenCV, YOLO, Computer Vision, Tester**
 
 - 💬 Ask me about **Python, React-Native, SQL, AI, Computer Vision..**
 
